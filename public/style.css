@@ -9,7 +9,9 @@ body {
 
 .pretty_button{
 	text-decoration: none;	
-	padding:20px;
+	color:#b46300;
+	font-size:30px;
+	font-family:"Futura";
 }
 .bordered {
   border: 1px solid #2325ff;
